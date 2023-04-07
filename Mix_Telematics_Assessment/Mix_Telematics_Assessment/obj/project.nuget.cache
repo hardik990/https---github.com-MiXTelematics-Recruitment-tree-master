@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3gQqDw6LZtY83nnYV06ORY01Y276XLhDVkxbG2/Wd8Me7ZZUjVryFr+abYU2VI49dOjxGd0FcAAcTjwBG1iSOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hardik\\source\\repos\\Mix_Telematics_Assessment\\Mix_Telematics_Assessment\\Mix_Telematics_Assessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hardik\\.nuget\\packages\\geocoordinate.netcore\\1.0.0.1\\geocoordinate.netcore.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

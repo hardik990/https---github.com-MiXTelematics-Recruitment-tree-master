@@ -1,0 +1,17 @@
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\bin\Release\net5.0\Mix_Telematics_Assessment.exe
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\bin\Release\net5.0\Mix_Telematics_Assessment.deps.json
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\bin\Release\net5.0\Mix_Telematics_Assessment.runtimeconfig.json
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\bin\Release\net5.0\Mix_Telematics_Assessment.runtimeconfig.dev.json
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\bin\Release\net5.0\Mix_Telematics_Assessment.dll
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\bin\Release\net5.0\ref\Mix_Telematics_Assessment.dll
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\bin\Release\net5.0\Mix_Telematics_Assessment.pdb
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\bin\Release\net5.0\GeoCoordinate.NetCore.dll
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\obj\Release\net5.0\Mix_Telematics_Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\obj\Release\net5.0\Mix_Telematics_Assessment.AssemblyInfoInputs.cache
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\obj\Release\net5.0\Mix_Telematics_Assessment.AssemblyInfo.cs
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\obj\Release\net5.0\Mix_Telematics_Assessment.csproj.CoreCompileInputs.cache
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\obj\Release\net5.0\Mix_Telematics_Assessment.csproj.CopyComplete
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\obj\Release\net5.0\Mix_Telematics_Assessment.dll
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\obj\Release\net5.0\ref\Mix_Telematics_Assessment.dll
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\obj\Release\net5.0\Mix_Telematics_Assessment.pdb
+C:\Users\Hardik\source\repos\Mix_Telematics_Assessment\Mix_Telematics_Assessment\obj\Release\net5.0\Mix_Telematics_Assessment.genruntimeconfig.cache
